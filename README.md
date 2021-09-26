@@ -13,7 +13,7 @@ Check out my Kaggle kernel [here](https://www.kaggle.com/dehaozhang/yelp-eda).
   * [Installation](#installation)
   
 ## Overview
-I explored the business data within the Yelp dataset, and examined the restaurant ratings among some of the fast food restaurant chains. We then took a look at different restaurant attributes and their relationships. At last, there was an example of how we can find top restaurants that fit our needs and used the tip data to create visualizations that can help us better understand restaurant tips.
+I explored the business data within the Yelp dataset, and examined the restaurant ratings among some of the fast food restaurant chains. We then took a look at different restaurant attributes and their relationships. At last, there was an example of how we can find top restaurants that fit our needs and used the tip data to create visualizations that can help us better understand the restaurant tips.
 
 ## Motivation
 As of March 2020, there are 211 million cumulative reviews on Yelp. With this massive amount of data, Yelp also releases a subset of their businesses, reviews, and user data for educational and academic purposes. There is a lot of information that can be mined in this dataset and can be used to infer meaning, business attributes, and sentiment.
